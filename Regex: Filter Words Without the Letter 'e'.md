@@ -14,7 +14,9 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
-Add code here
+<img width="803" height="320" alt="image" src="https://github.com/user-attachments/assets/06106069-c131-4399-be09-13cb509cb5ed" />
 ## Output
+<img width="827" height="152" alt="image" src="https://github.com/user-attachments/assets/1121c950-aa75-408a-89c2-cc94bec193f4" />
 
 ## Result
+<img width="827" height="152" alt="image" src="https://github.com/user-attachments/assets/0833b16a-5605-46e0-8405-43b7d8a1e9e7" />
